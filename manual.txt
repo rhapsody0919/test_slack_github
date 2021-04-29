@@ -1,0 +1,18 @@
+slackとgithubの連携方法
+
+https://qiita.com/unsoluble_sugar/items/e42ac352400598a24915
+
+SlackにGitHubアプリをインストールする
+https://slack.github.com
+
+↓
+
+GitHubアカウントとの接続を行う
+slackのGitHubアプリ上で、/github signin と送信
+
+↓
+
+リポジトリのsubscribeを開始する
+GitHubリポジトリの通知を流したいチャンネルに移動する
+/github subscribe rhapsody0919/testRepo
+
